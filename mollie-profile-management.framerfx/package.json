@@ -1,0 +1,19 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "7ea30a36-d9d6-4ac6-8221-6215b30960b7"
+	},
+	"author": "Elliot Nolten",
+	"dependencies": {
+		"@framer/maximedegreve.tinyfaces": "^1.4.0",
+		"styled-components": "^4.3.2"
+	}
+}
